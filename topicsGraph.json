@@ -1,0 +1,5 @@
+{"_id":{"$oid":"640ccd5031240195452b8416"},"topic_name":"Accounting","description":"Accounting, also known as accountancy, is the measurement, processing, and communication of financial and non-financial information about economic entities such as businesses and corporations.","udc_code":"1"}
+{"_id":{"$oid":"640cd1ee31240195452b8417"},"topic_name":"Accounting Software","description":"Software used in Accounting activities.","udc_code":"10","parent_udc":"1"}
+{"_id":{"$oid":"640cd24331240195452b8418"},"topic_name":"CONTPAQ","description":"Contpaq is a popular accounting software in Mexico.","udc_code":"101","parent_udc":"10"}
+{"_id":{"$oid":"640cd9a631240195452b8419"},"topic_name":"CONTPAQ's Main Features","description":"Contpaq's main features","udc_code":"1010","parent_udc":"101"}
+{"_id":{"$oid":"640ce88231240195452b841a"},"topic_name":"Unrelated","description":"this topic is not connected to other topics","udc_code":"2"}
